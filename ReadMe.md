@@ -1,6 +1,6 @@
 ## Divides an image up into columns and flips each column horizontally
 This is handy if you are making sprites and you want to create the alternate
-orientation.
+left or right orientation.
 
 ## Prerequisites
 * [Gimp 2.8](http://www.gimp.org/)
@@ -17,7 +17,5 @@ orientation.
 * A new layer will be created called flipped...
 
 ## References
-* [https://en.wikipedia.org/wiki/List_of_monochrome_and_RGB_palettes](https://en.wikipedia.org/wiki/List_of_monochrome_and_RGB_palettes)
-* [https://en.wikipedia.org/wiki/List_of_color_palettes](https://en.wikipedia.org/wiki/List_of_color_palettes)
 * [http://gimpbook.com/scripting/](http://gimpbook.com/scripting/)
 * [http://www.gimp.org/docs/python/index.html](http://www.gimp.org/docs/python/index.html)
